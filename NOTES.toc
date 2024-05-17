@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1.}PAPER}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1.}VIBRATION}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.}\cite {Wang2020d}}{2}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2.}\cite {Yang2020}}{3}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3.}\cite {Bouarab2019}}{4}{subsubsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.4.}\cite {Mialdun2008}}{4}{subsubsection.1.1.4}
+\contentsline {subsection}{\numberline {1.2.}BOUNDARY LAYER}{6}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3.}LARGE-SCALE CIRCULATION}{7}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4.}MHD}{7}{subsection.1.4}
+\contentsline {section}{\numberline {2.}TURBULENCE COURSE}{7}{section.2}
+\contentsline {section}{\numberline {3.}SIMULATION CODE}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1.}Nek5000 code in fortran}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2.}OpenFoam code in C}{8}{subsection.3.2}
+\contentsline {section}{\numberline {4.}DEEP LEARNING}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1.}python}{8}{subsection.4.1}
+\contentsline {section}{\numberline {5.}Appendix}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1.}Appendix A}{8}{subsection.5.1}
